@@ -19,7 +19,7 @@ This project features a full-stack web application built using Streamlit, allowi
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/dev1ashish/lipreading-project.git`
+1. Clone the repository: `git clone https://github.com/dev1ashish/LipRead.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Launch the Streamlit web application: `streamlit run app.py`
 
